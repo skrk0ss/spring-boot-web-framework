@@ -15,5 +15,6 @@ public class Application {
     SpringApplication.run(Application.class, args);
 
     logger.info("test:" + StringUtils.isBlank("test"));
+    logger.info("test:" + StringUtils.isBlank("test"));
   }
 }
