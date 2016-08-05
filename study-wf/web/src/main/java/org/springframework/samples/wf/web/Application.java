@@ -23,20 +23,5 @@ public class Application {
     logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
     logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
     logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
-    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
   }
 }
