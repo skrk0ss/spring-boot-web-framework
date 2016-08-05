@@ -16,5 +16,14 @@ public class Application {
 
     logger.info("test:" + StringUtils.isBlank("test"));
     logger.info("test:" + StringUtils.isBlank("test"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
   }
 }
