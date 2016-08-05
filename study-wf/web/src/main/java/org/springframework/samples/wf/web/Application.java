@@ -16,5 +16,6 @@ public class Application {
 
     logger.info("test:" + StringUtils.isBlank("test"));
     logger.info("test:" + StringUtils.isBlank("test"));
+    logger.info("ffff1:" + StringUtils.isBlank("ffff1"));
   }
 }
