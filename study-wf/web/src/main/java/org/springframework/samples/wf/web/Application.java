@@ -18,5 +18,6 @@ public class Application {
     logger.info("test:" + StringUtils.isBlank("test"));
     logger.info("feature1:" + StringUtils.isBlank("feature1"));
     logger.info("feature2:" + StringUtils.isBlank("feature2"));
+    logger.info("feature2-2:" + StringUtils.isBlank("feature2-2"));
   }
 }
