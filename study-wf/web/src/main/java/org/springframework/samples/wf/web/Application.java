@@ -16,27 +16,14 @@ public class Application {
 
     logger.info("test:" + StringUtils.isBlank("test"));
     logger.info("test:" + StringUtils.isBlank("test"));
-    logger.info("ffff1:" + StringUtils.isBlank("ffff1"));
-    logger.info("feature1:" + StringUtils.isBlank("feature1"));
-    logger.info("feature2:" + StringUtils.isBlank("feature2"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
-    logger.info("feature3-3:" + StringUtils.isBlank("feature3-3"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
   }
 }
