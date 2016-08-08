@@ -31,7 +31,6 @@ public class Application {
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
-<<<<<<< HEAD
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
@@ -43,12 +42,5 @@ public class Application {
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
-=======
-    
-    
-    
-    
-    
->>>>>>> hotfix/hotfixff
   }
 }
