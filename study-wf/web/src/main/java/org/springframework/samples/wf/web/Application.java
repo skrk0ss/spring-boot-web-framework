@@ -32,5 +32,15 @@ public class Application {
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
     logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
+    logger.info("hotfix:" + StringUtils.isBlank("hotfix"));
   }
 }
